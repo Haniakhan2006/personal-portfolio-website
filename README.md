@@ -8,6 +8,12 @@ The website was designed using modern frontend development technologies and foll
 
 ---
 
+## Live Demo
+
+Live Website:
+ https://haniakhan2006.github.io/personal-portfolio-website/
+
+
 ## Developed By
 
 Hania Khan
